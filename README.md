@@ -1,2 +1,2 @@
 # turtlebot_human_tracking
-packege for turtlebot3 that allows to detect humans and follow them
+package for turtlebot3 that implements human detection and a tracking. 
