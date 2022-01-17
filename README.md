@@ -7,10 +7,12 @@ In the folder trained_network there are alocated the files that define the pretr
 
 
 ## Python Code
-The python code 
+The python code 'human_tracking.py' is the only code necessary to run the detection & human tracking.
 
 ## Simulation environment
 In order to verify the human detection and tracking we have used a gazebo world in which models of people appear walking randomly.
+
+
 
 
 
