@@ -2,21 +2,15 @@
 A ROS package for turtlebot3 that implements human detection and a tracking. 
 
 
-The 'MobileNetSSD' files define a trained machine learning model that can be used for a variety of object detection implementations. Here we use person detection.
-
-A 'webcam_tracker.py' script is included as a demonstration of the person tracking portion of the project. This script should run without problems if you have a webcam on your computer and the 'MobileNetSSD' modules in the same directory as the script (you'll need to change the paths when loading the modules in the script, line 21). This script does nothing with the TurtleBot. More documentation and information on how the tracking is done can be found at: https://www.pyimagesearch.com/2017/09/18/real-time-object-detection-with-deep-learning-and-opencv/
-
-See the wiki attached to this repo for more detailed information on the project and how it was completed.
-
 ## Trained network
-
+In the folder trained_network there are alocated the files that define the pretrained machine learning model 'MobileNetSSD'. This can be used for several object detection, however, in this case we will use only the human detections. 
 
 
 ## Python Code
-
+The python code 
 
 ## Simulation environment
-
+In order to verify the human detection and tracking we have used a gazebo world in which models of people appear walking randomly.
 
 
 
