@@ -1,13 +1,7 @@
 # turtlebot_human_tracking
-package for turtlebot3 that implements human detection and a tracking. 
+A ROS package for turtlebot3 that implements human detection and a tracking. 
 
-This package implements asaasdadasdsadasdadasda
-asdasd
-as
-dd
-sa
-d
-asdas
+
 
 ## Step 1: ssasassaas
 
